@@ -1,2 +1,6 @@
 # Oculus-Sound-Archive
-Archive of sounds ripped from the PC Oculus App
+
+> [!WARNING]
+> This is unfinished, some sounds have not been extracted.
+
+Archive of (most) sounds ripped from the PC Oculus App 
